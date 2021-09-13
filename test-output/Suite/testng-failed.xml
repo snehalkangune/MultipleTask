@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="implementation_listeners_DXpath_Wait.Listener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="implementation_listeners_DXpath_Wait.DashbordPage">
+        <methods>
+          <include name="setEnvClass"/>
+        </methods>
+      </class> <!-- implementation_listeners_DXpath_Wait.DashbordPage -->
+      <class name="implementation_listeners_DXpath_Wait.LoginPage">
+        <methods>
+          <include name="closeSetup"/>
+          <include name="blankPass"/>
+          <include name="setEnvClass"/>
+          <include name="invalidPass"/>
+          <include name="clearTextFromTextBox"/>
+        </methods>
+      </class> <!-- implementation_listeners_DXpath_Wait.LoginPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

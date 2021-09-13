@@ -1,0 +1,52 @@
+2021-06-28 14:19:47,321  INFO [main] DashbordPage:78 - onStart........
+2021-06-28 14:19:47,325  INFO [main] DashbordPage:81 - Suite start time 1624870187325
+2021-06-28 14:19:55,483  INFO [main] DashbordPage:26 - onTestStart- verifyTitle
+2021-06-28 14:19:55,484  INFO [main] DashbordPage:29 - start time test case= 1624870195484
+2021-06-28 14:19:55,494  INFO [main] DashbordPage:32 - JavaByKiran | Dashboard
+2021-06-28 14:19:55,500  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:19:55,501  INFO [main] DashbordPage:38 - success time test case= 1624870195500
+2021-06-28 14:19:59,041  INFO [main] DashbordPage:26 - onTestStart- pageLayout
+2021-06-28 14:19:59,041  INFO [main] DashbordPage:29 - start time test case= 1624870199041
+2021-06-28 14:19:59,186  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:19:59,187  INFO [main] DashbordPage:38 - success time test case= 1624870199187
+2021-06-28 14:19:59,190  INFO [main] DashbordPage:26 - onTestStart- subTitleofDasgboard
+2021-06-28 14:19:59,190  INFO [main] DashbordPage:29 - start time test case= 1624870199190
+2021-06-28 14:19:59,239  INFO [main] DashbordPage:43 - Courses Offered
+2021-06-28 14:19:59,390  INFO [main] DashbordPage:55 - Print name of courses [Selenium, Java / J2EE, Python, Php]
+2021-06-28 14:19:59,394  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:19:59,394  INFO [main] DashbordPage:38 - success time test case= 1624870199394
+2021-06-28 14:19:59,513  INFO [main] DashbordPage:26 - onTestStart- VerifyHeading
+2021-06-28 14:19:59,513  INFO [main] DashbordPage:29 - start time test case= 1624870199513
+2021-06-28 14:19:59,564  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:19:59,564  INFO [main] DashbordPage:38 - success time test case= 1624870199564
+2021-06-28 14:19:59,567  INFO [main] DashbordPage:26 - onTestStart- userTabLink
+2021-06-28 14:19:59,568  INFO [main] DashbordPage:29 - start time test case= 1624870199568
+2021-06-28 14:20:00,000  INFO [main] DashbordPage:65 - JavaByKiran | User
+2021-06-28 14:20:00,001  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:20:00,002  INFO [main] DashbordPage:38 - success time test case= 1624870200002
+2021-06-28 14:20:00,111  INFO [main] DashbordPage:26 - onTestStart- login
+2021-06-28 14:20:00,111  INFO [main] DashbordPage:29 - start time test case= 1624870200111
+2021-06-28 14:20:00,492  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:20:00,493  INFO [main] DashbordPage:38 - success time test case= 1624870200493
+2021-06-28 14:20:00,497  INFO [main] DashbordPage:26 - onTestStart- logoutButton
+2021-06-28 14:20:00,497  INFO [main] DashbordPage:29 - start time test case= 1624870200497
+2021-06-28 14:20:00,787  INFO [main] DashbordPage:77 - JavaByKiran | Log in
+2021-06-28 14:20:00,789  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:20:00,790  INFO [main] DashbordPage:38 - success time test case= 1624870200790
+2021-06-28 14:20:00,895  INFO [main] DashbordPage:26 - onTestStart- verifyinvalidEmail
+2021-06-28 14:20:00,896  INFO [main] DashbordPage:29 - start time test case= 1624870200896
+2021-06-28 14:20:01,193  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:20:01,194  INFO [main] DashbordPage:38 - success time test case= 1624870201194
+2021-06-28 14:20:01,297  INFO [main] DashbordPage:26 - onTestStart- blankPass
+2021-06-28 14:20:01,298  INFO [main] DashbordPage:29 - start time test case= 1624870201298
+2021-06-28 14:20:01,551  INFO [main] DashbordPage:46 - onTestFailure...... blankPass
+2021-06-28 14:20:01,884  INFO [main] DashbordPage:26 - onTestStart- invalidPass
+2021-06-28 14:20:01,885  INFO [main] DashbordPage:29 - start time test case= 1624870201885
+2021-06-28 14:20:02,135  INFO [main] DashbordPage:46 - onTestFailure...... invalidPass
+2021-06-28 14:20:02,501  INFO [main] DashbordPage:26 - onTestStart- verifyCorrectData
+2021-06-28 14:20:02,502  INFO [main] DashbordPage:29 - start time test case= 1624870202502
+2021-06-28 14:20:11,296  INFO [main] DashbordPage:104 - JavaByKiran | Dashboard
+2021-06-28 14:20:11,297  INFO [main] DashbordPage:35 - onTestSuccess.....
+2021-06-28 14:20:11,298  INFO [main] DashbordPage:38 - success time test case= 1624870211298
+2021-06-28 14:20:11,460  INFO [main] DashbordPage:87 - onFinish....... 
+2021-06-28 14:20:11,464  INFO [main] DashbordPage:90 - Suite end time 1624870211464
